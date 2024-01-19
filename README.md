@@ -20,10 +20,9 @@ Before running the app, ensure you have the following dependencies installed:
 - requests
 
 ## Getting Started
-## Clone the repository:
-
-git clone https://github.com/talk2mayor/soccer-prediction-bot.git
-cd soccer-prediction-bot
+ Clone the repository:
+- git clone https://github.com/talk2mayor/soccer-prediction-bot.git
+- cd soccer-prediction-bot
 
 ## Replace YOUR_API_KEY in ui.py and fixtures.py with your actual API key from Football Data API.
 
@@ -32,13 +31,13 @@ python ui.py
 
 
 ## Application Structure
-ui.py: Main module for the Soccer Prediction App UI.
-data_processing.py: Module for data preprocessing and training.
-model.py: Module for encoding teams and making predictions.
-fixtures.py: Module for displaying upcoming and played fixtures.
+- ui.py: Main module for the Soccer Prediction App UI.
+- data_processing.py: Module for data preprocessing and training.
+- model.py: Module for encoding teams and making predictions.
+- fixtures.py: Module for displaying upcoming and played fixtures.
 
 
 ## Usage
-Launch the app using python ui.py.
-Select the match type, enter the year, and click "Predict."
-View the predictions for live matches and historical results.
+- Launch the app using python ui.py.
+- Select the match type, enter the year, and click "Predict."
+- View the predictions for live matches and historical results.
