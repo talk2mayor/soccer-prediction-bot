@@ -1,3 +1,10 @@
+"""
+Soccer Prediction Bot
+Author: Talk2Mayor
+Date: January 19, 2024
+Description: This Python script predicts soccer match outcomes using machine learning.
+"""
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
