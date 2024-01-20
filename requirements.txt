@@ -1,4 +1,4 @@
-- Python 3.x
-- PyQt5
-- scikit-learn
-- requests
+Python 3.x
+PyQt5
+scikit-learn
+requests
