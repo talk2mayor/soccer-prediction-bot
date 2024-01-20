@@ -159,7 +159,7 @@ class FixtureDisplayApp(QWidget):
         return formatted_text
 
 if __name__ == '__main__':
-    api_key = "6c2abd315f4e40d084d4ae4c6fae2ff6"  # Replace with your actual API key
+    api_key = "YOUR API"  # Replace with your actual API key
     app = QApplication(sys.argv)
     main_window = FixtureDisplayApp(api_key)
     main_window.show()
