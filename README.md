@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Soccer Prediction App is a Python application that predicts the outcomes of soccer matches using machine learning. It integrates with a soccer data API to fetch live and historical match data, processes the data, and makes predictions for upcoming matches.
+The Soccer Prediction Bot is a Python application that predicts the outcomes of soccer matches using machine learning. It integrates with a soccer data API to fetch live and historical match data, processes the data, and makes predictions for upcoming matches.
 
 ## Features
 
