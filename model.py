@@ -1,3 +1,11 @@
+"""
+Soccer Prediction Bot
+Author: Talk2Mayor
+Date: January 19, 2024
+Description: This Python script predicts soccer match outcomes using machine learning.
+"""
+
+
 from sklearn.preprocessing import LabelEncoder
 
 def encode_teams(label_encoder, df):
