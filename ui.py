@@ -135,7 +135,7 @@ class SoccerPredictionApp(QWidget):
             self.status_label.setText('Status: Prediction completed')
 
 if __name__ == '__main__':
-    api_key = "6c2abd315f4e40d084d4ae4c6fae2ff6"  # Replace with your actual API key
+    api_key = "YOUR API"  # Replace with your actual API key
     app = QApplication(sys.argv)
     main_window = SoccerPredictionApp(api_key)
     main_window.show()
