@@ -1,3 +1,10 @@
+"""
+Soccer Prediction Bot
+Author: Talk2Mayor
+Date: January 19, 2024
+Description: This Python script predicts soccer match outcomes using machine learning.
+"""
+
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QVBoxLayout, QPushButton, QTextEdit, QCheckBox, QMessageBox, QFileDialog
 from PyQt5.QtCore import Qt
